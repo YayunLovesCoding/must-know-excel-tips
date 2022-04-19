@@ -21,3 +21,5 @@ SUMIFS(sum_range, criteria_range1, criteria1, criteria_range2, criteria2,...)
 - select a table: select any cell --> CTRL + A
 
 - Copy a worksheet: hold CTRL key and drag
+
+- select the entire column: select a cell in that column, and then "ctl + space"
